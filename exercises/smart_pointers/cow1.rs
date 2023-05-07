@@ -8,7 +8,7 @@
 // This exercise is meant to show you what to expect when passing data to Cow.
 // Fix the unit tests by checking for Cow::Owned(_) and Cow::Borrowed(_) at the TODO markers.
 
-// I AM NOT DONE
+// I AM DONE
 
 use std::borrow::Cow;
 
